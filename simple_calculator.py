@@ -12,4 +12,3 @@ elif operator == "Devsion":
     print("Devision",value1 // value2)
 else:
     print("error")
-""
