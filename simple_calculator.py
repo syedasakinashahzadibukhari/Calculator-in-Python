@@ -9,6 +9,6 @@ elif operator == "subtraction":
 elif operator == "Multiplication":
     print("Multiplication",value1 ** value2)
 elif operator == "Devsion":
-    print("Devision",value1 // value2)
+    print("Devision",value1 // value2)# double sash is not valid it give the floating point 
 else:
     print("error")
