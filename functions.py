@@ -11,4 +11,4 @@ def Calculator():
         else:
             print("error")
 
-''' This eval function make my work '''
+''' This eval function make my work easy'''
