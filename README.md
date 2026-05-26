@@ -1,3 +1,2 @@
 # Calculator-in-Python
 A Python-based calculator application that performs basic arithmetic operations with a clean and user-friendly interface.
-.
